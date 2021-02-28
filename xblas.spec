@@ -52,9 +52,7 @@ Statyczna biblioteka XBLAS.
 Summary:	XBLAS documentation
 Summary(pl.UTF-8):	Dokumentacja projektu XBLAS
 Group:		Documentation
-%if "%{_rpmversion}" >= "5"
 BuildArch:	noarch
-%endif
 
 %description doc
 XBLAS documentation.
