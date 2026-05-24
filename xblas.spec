@@ -2,7 +2,7 @@ Summary:	XBLAS - Extra Precise Basic Linear Algebra Subroutines
 Summary(pl.UTF-8):	XBLAS - procedury BLAS rozszerzonej precyzji
 Name:		xblas
 Version:	1.0.248
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries
 Source0:	http://www.netlib.org/xblas/%{name}-%{version}.tar.gz
